@@ -1,0 +1,39 @@
+.box {
+    margin: auto;
+    width: 430px;
+    height: 350px;
+    padding: 10px;
+    border: 5px solid red;
+    color: white;
+    font-size: 34;
+}
+
+body
+{
+    text-align: center;
+    background-color: red;
+}
+.container{
+  background-color: red;  
+}
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
